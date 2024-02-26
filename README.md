@@ -1,5 +1,6 @@
 # Starbucks Application Prototype
 
+You can checkout This Prototype Here: "https://github.com/laxmiprasannaperuvala/Starbucks_Application_Figma/blob/main/StarbucksImage.png"
 
 Welcome to the Starbucks Application Prototype, a fully-featured and flexible design created using Figma. This prototype replicates the real Starbucks application and includes all the essential features and functionalities you would expect from the official app.
 
